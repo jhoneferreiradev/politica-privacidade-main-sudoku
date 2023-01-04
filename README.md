@@ -76,7 +76,7 @@ Os dados pessoais armazenados são tratados com confidencialidade, dentro dos li
 # SEÇÃO 7 - COMPARTILHAMENTO DOS DADOS
 
 O compartilhamento de dados do usuário ocorre apenas com os dados referentes a publicações realizadas pelo próprio usuário, tais ações são compartilhadas publicamente com os outros usuários.
-Os dados do perfil do usuário são compartilhados publicamente em sistemas de busca e dentro da plataforma, sendo permitido ao usuário modificar tal configuração para que seu perfil não apareça nos resultados de busca de tais ferramentas.
+Os dados do perfil do usuário são compartilhados publicamente dentro da plataforma, não sendo permitido ao usuário modificar tal configuração.
 A plataforma se exime de culpa quando por ações exclusivas do usuário, ele mesmo transfere seus dados a terceiros não relacionados na seção 6.
 
 # SEÇÃO 8 - OS DADOS PESSOAIS ARMAZENADOS SERÃO TRANSFERIDOS A TERCEIROS?
